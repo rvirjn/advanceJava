@@ -1,3 +1,23 @@
-{
-
-}
+[{
+	"entityUUID": "nsxt",
+    "userName": "hms-1",
+    "hostDNSName": "http://hmslocal-1.local",
+    "hostManagementIP": "0.0.1-SNAPSHOT",
+    "hostPrivateIP": "hms-1",
+    "password": "http://hmslocal-1.local",
+    "credentialId": "0.0.1-SNAPSHOT",
+    "entityType":"",
+   	"credentialType":""
+	},
+	{
+	"entityUUID": "nsxt2",
+    "userName": "hms-2",
+    "hostDNSName": "http://hmslocal-1.local2",
+    "hostManagementIP": "0.0.1-SNAPSHOT2",
+    "hostPrivateIP": "hms-2",
+    "password": "http://hmslocal-1.local2",
+    "credentialId": "0.0.1-SNAPSHOT2",
+    "entityType":"",
+   	"credentialType":""
+	}
+	]
